@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraDeGorjetas</string>
+    <string name="total_do_pedido">Total do Pedido</string>
+    <string name="calcular_gorjeta">Calcular Gorjeta</string>
+    <string name="valor_gorjeta">Gorjeta: %s</string>
+    <string name="como_foi_o_atendimento">Porcentagem</string>
+    <string name="arredondar_gorjeta">Arredondar Gorjeta?</string>
+</resources>
