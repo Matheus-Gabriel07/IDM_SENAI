@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="content_foo_1_paisagem">Paisagem</string>
+    <string name="content_foo_2_cidade">Cidade</string>
+    <string name="content_foo_3_praia">Praia</string>
+</resources>

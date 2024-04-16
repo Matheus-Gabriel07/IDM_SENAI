@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name='largura_botao'>128.dp</dimen>
+    <dimen name='altura_botao'>160.dp</dimen>
+    <dimen name='preenchimento'>24.dp</dimen>
+    <dimen name='arredondamento'>40.dp</dimen>
+    <dimen name='espacador'>24.dp</dimen>
+</resources>
