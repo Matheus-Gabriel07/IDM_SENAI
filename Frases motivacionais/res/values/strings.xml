@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frases Motivacionais</string>
+    <string name="motivacional1">\"Acredite em si mesmo e você será imparável.\"</string>
+    <string name="motivacional2">\"Cada dia é uma nova oportunidade para brilhar.\"</string>
+    <string name="motivacional3">\"Se você pode sonhar, pode realizar.\"</string>
+    <string name="motivacional4">\"A persistência leva ao sucesso.\"</string>
+    <string name="motivacional5">\"A jornada mais longa começa com um único passo.\"</string>
+    <string name="motivacional6">\"Sua determinação é sua maior força.\"</string>
+    <string name="motivacional7">\"O sucesso é a soma de pequenos esforços repetidos dia após dia.\"</string>
+    <string name="motivacional9">\"Grandes coisas nunca vêm da zona de conforto.\"</string>
+    <string name="motivacional8">\"Encare cada desafio como uma chance de crescimento.\"</string>
+    <string name="motivacional10">\"Mude seus pensamentos e você mudará seu mundo.\"</string>
+</resources>
